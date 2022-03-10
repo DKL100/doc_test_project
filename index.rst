@@ -5,7 +5,7 @@
 
 Welcome to Doc Test Project's documentation!
 ============================================
-Hello World
+Hello World this is some new text
 
 .. toctree::
    :maxdepth: 2
