@@ -7,7 +7,7 @@ Welcome to Doc Test Project's documentation!
 ============================================
 Hello World this is some new text
 
-Another edit after turning on pull requests
+Another edit after turning on pull requests now in VSCode
 
 .. toctree::
    :maxdepth: 2
